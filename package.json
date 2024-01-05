@@ -1,11 +1,11 @@
 {
-  "name": "nadeem-calc",
-  "version": "1.5.0",
+  "name": "nadeema-calc",
+  "version": "1.6.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "nadeem-calc": "index.js"
+    "nadeema-calc": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
